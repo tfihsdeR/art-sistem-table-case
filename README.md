@@ -1,4 +1,4 @@
-# Healt Survey
+# Art Sistem Table
 
 Welcome to the "Art Sistem Table" project! This guide will help you set up and run the frontend and backend parts of the application.
 
