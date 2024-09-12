@@ -14,7 +14,20 @@ Art Sistem Table allows you to read users posts by a table.
 
 ## Prerequisites
 
-Before you begin, make sure you have Node.js installed on your system. Also you need to install the yarn to run the project.
+Before you begin, make sure you have Node.js installed on your system. Also you need to install the yarn to run the project. If you already installed them navigate to the "Running the App" title please.
+
+## Install The Node.js and Yarn
+
+1. Open an internet browser.
+2. Navigate to the page below:
+    ```bash
+    https://nodejs.org/en
+    ```
+3. Download and install the Node.js
+4. Install the "Yarn"
+    ```bash
+    npm install -g yarn
+    ```
 
 ## Running the App
 
